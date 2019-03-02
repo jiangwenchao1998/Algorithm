@@ -20,6 +20,7 @@ int main() {
         sum += 2 * ((2 * b[n - i] * 2 * a[i - 1]) % def + (2 * a[n - i] * 2 * b[i - 1]) % def) % def;
         sum %= def;
     }
+	//ÌØÊâÇé¿ö
     if (n == 1)  sum = 2;
     cout << sum <<endl;
 
