@@ -2,6 +2,7 @@
 #include <cmath>
 using namespace std;
 
+//ตÝน้
 string FBI(string str) {
     if (str.length() == 1) {
         switch (str[0]) {
