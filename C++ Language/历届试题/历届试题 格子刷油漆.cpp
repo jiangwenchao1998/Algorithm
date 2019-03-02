@@ -23,6 +23,5 @@ int main() {
 	//ÌØÊâÇé¿ö
     if (n == 1)  sum = 2;
     cout << sum <<endl;
-
     return 0;
 }
